@@ -1,1 +1,6 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-architect
+
+title: Vancl Website
+description: A website to share knowledge
+
+show_downloads: true
